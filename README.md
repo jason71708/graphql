@@ -1,3 +1,4 @@
 # GraphQL practice
 
-- use [AniList API](https://anilist.gitbook.io/anilist-apiv2-docs/)
+## Query
+- use [AniList GraphQL API](https://anilist.gitbook.io/anilist-apiv2-docs/)

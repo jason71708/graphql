@@ -1,5 +1,5 @@
 type GraphqlVariable = {
-  [key: string]: string | number
+  [key: string]: string | number | boolean
 }
 
 const url = 'https://graphql.anilist.co'
